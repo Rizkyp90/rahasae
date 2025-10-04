@@ -4,13 +4,6 @@ Sebuah aplikasi web sederhana dan anonim untuk mengirimkan catatan atau pesan ra
 
 ---
 
-### ## Screenshot Aplikasi
-
-
-*(Ganti gambar ini dengan screenshot tampilan utama aplikasi Anda)*
-
----
-
 ### ## Fitur Utama 🚀
 
 * **💌 Kirim Pesan Personal:** Tulis dan kirimkan catatan untuk berbagai kategori penerima seperti pasangan, orang tua, sahabat, dan lainnya.
